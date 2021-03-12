@@ -8,7 +8,7 @@ from SpongebobBot import LOGGER, JOIN_LOGGER, SUPPORT_CHAT, dispatcher, DRAGONS
 from SpongebobBot.modules.disable import DisableAbleCommandHandler
 from SpongebobBot.modules.helper_funcs.handlers import MessageHandlerChecker
 from SpongebobBot.modules.helper_funcs.chat_status import user_admin, connection_status
-from SaitamaRobot.modules.helper_funcs.misc import (build_keyboard,
+from SpongebobBot.modules.helper_funcs.misc import (build_keyboard,
                                                     revert_buttons)
 from SpongebobBot.modules.helper_funcs.msg_types import get_note_type
 from SpongebobBot.modules.helper_funcs.string_handling import escape_invalid_curly_brackets
