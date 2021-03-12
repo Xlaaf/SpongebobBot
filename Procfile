@@ -1,3 +1,3 @@
-worker: python3 -m SaitamaRobot
-web: python3 -m SaitamaRobot
+worker: python3 -m SpongebobBot
+web: python3 -m SpongebobBot
 ps:scale worker=1
