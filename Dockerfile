@@ -65,11 +65,11 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/SaitamaRobot
-RUN git clone -b shiken https://github.com/AnimeKaizoku/SaitamaRobot /root/SaitamaRobot
-WORKDIR /root/SaitamaRobot
+RUN git clone -b shiken https://github.com/Xlaaf/SpongebobBot /root/SpongebobBot
+WORKDIR /root/SpongebobBot
 
-#Copy config file to /root/SaitamaRobot/SaitamaRobot
-COPY ./SaitamaRobot/sample_config.py ./SaitamaRobot/config.py* /root/SaitamaRobot/SaitamaRobot/
+#Copy config file to /root/SpongebobBot/SpongebobBot
+COPY ./SpongebobBot/sample_config.py ./SpongebobBot/config.py* /root/SaitamaRobot/SaitamaRobot/
 
 ENV PATH="/home/bot/bin:$PATH"
 
@@ -77,4 +77,4 @@ ENV PATH="/home/bot/bin:$PATH"
 RUN pip3 install -U -r requirements.txt
 
 # Starting Worker
-CMD ["python3","-m","SaitamaRobot"]
+CMD ["python3","-m","SpongebobBot"]
