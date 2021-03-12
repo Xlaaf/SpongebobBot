@@ -2,7 +2,7 @@ import html
 from typing import Optional
 
 import SpongebobBot.modules.sql.blsticker_sql as sql
-from SaitamaRobot import LOGGER, dispatcher
+from SpongebobBot import LOGGER, dispatcher
 from SpongebobBot.modules.connection import connected
 from SpongebobBot.modules.disable import DisableAbleCommandHandler
 from SpongebobBot.modules.helper_funcs.alternate import send_message
