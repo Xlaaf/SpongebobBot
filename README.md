@@ -4,7 +4,7 @@
 ## DONATE
 https://saweria.co/Xlaaf
 
-A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
+A modular Telegram Python bot running on python3 with a sqlalchemy database and based on saitamarobot
 
 Can be found on telegram as [SpongebobRobot](https://t.me/SpongebonSquarepantsRobot).
 
