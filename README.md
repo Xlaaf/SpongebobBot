@@ -22,9 +22,7 @@ News channel as at [Voha Updates](https://t.me/VohaUpdate)
  - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot [See this](https://github.com/Roxy-sama/SpongebobRobot/blob/shiken/SaitamaRobot/__main__.py#L25)
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats
  - This repo does not come with technical support, so DO NOT come to us asking help about deploy/console errors
-## Credit
-Thanks for @animekaizoku because this bot is the base of saitama
-And @paulsonoflars because him made marie
+
 
 
 <details>
@@ -187,4 +185,9 @@ Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (wil
 Any other authorship/credits can be seen through the commits.
 
 Should any be missing kindly let us know at [Senku Support](https://t.me/SenkuSupport) or simply submit a pull request on the readme.
-	
+
+## Credit
+
+1. Thanks for @animekaizoku for base of this repo
+2. Thanks for @ftsasaki for base the repo
+3. Thanks for @paulsonoflars Because he made marie
