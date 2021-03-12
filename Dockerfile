@@ -69,7 +69,7 @@ RUN git clone -b shiken https://github.com/Xlaaf/SpongebobBot /root/SpongebobBot
 WORKDIR /root/SpongebobBot
 
 #Copy config file to /root/SpongebobBot/SpongebobBot
-COPY ./SpongebobBot/sample_config.py ./SpongebobBot/config.py* /root/SaitamaRobot/SaitamaRobot/
+COPY ./SpongebobBot/sample_config.py ./SpongebobBot/config.py* /root/SpongebobBot/SpongebobBot/
 
 ENV PATH="/home/bot/bin:$PATH"
 
