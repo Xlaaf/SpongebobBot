@@ -12,6 +12,9 @@ The Support group can be reached out to at [Voha Union](https://t.me/VohaUnion),
 
 News channel as at [Voha Updates](https://t.me/VohaUpdate) 
 
+[![Deploy](https://telegra.ph/file/f9b124ec66443c5f094d9.jpg)](https://heroku.com/deploy?template=https://github.com/Xlaaf/SpongebobBot.git)
+
+
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
