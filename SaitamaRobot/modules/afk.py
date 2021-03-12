@@ -57,8 +57,8 @@ def no_longer_afk(update: Update, context: CallbackContext):
         firstname = update.effective_user.first_name
         try:
             options = [
-                '{} is here!', '{} is back!', '{} is now in the chat!',
-                '{} is awake!', '{} is back online!', '{} is finally here!',
+                '{} is here! where Patrick?', '{} is back! Are you fine?', '{} is now in the chat! She got a girlfriend!',
+                '{} is awake! Squidward is waiting for you', '{} is back online!', '{} is finally here!',
                 'Welcome back! {} here you krabby!', 'Where is {}?\nIn the chat!'
             ]
             chosen_option = random.choice(options)
