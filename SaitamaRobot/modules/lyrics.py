@@ -3,8 +3,8 @@ from tswift import Song
 from telegram import Bot, Update, Message, Chat
 from telegram.ext import run_async
 
-from SaitamaRobot import dispatcher
-from SaitamaRobot.modules.disable import DisableAbleCommandHandler
+from SpongebobBot import dispatcher
+from SpongebobBot.modules.disable import DisableAbleCommandHandler
 
 
 @run_async
