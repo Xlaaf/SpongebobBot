@@ -1,4 +1,4 @@
-![Spongebob](https://telegra.ph/file/f9b124ec66443c5f094d9.jpg)
+![Spongebob](https://telegra.ph/file/f9b124ec66443c5f094d9.jpg)(https://heroku.com/deploy?template=https://github.com/Xlaaf/SpongebobBot.git)
 # Spongebob Robot 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/Roxy-sama/SpongebobRobot?utm_source=github.com&utm_medium=referral&utm_content=Roxy-sama/SpongebobRobot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Roxy-sama/SpongebobRobot/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/VohaUpdate)
 
@@ -20,6 +20,10 @@ News channel as at [Voha Updates](https://t.me/VohaUpdate)
  - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot [See this](https://github.com/Roxy-sama/SpongebobRobot/blob/shiken/SaitamaRobot/__main__.py#L25)
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats
  - This repo does not come with technical support, so DO NOT come to us asking help about deploy/console errors
+## Credit
+Thanks for @animekaizoku because this bot is the base of saitama
+And @paulsonoflars because him made marie
+
 
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
@@ -30,9 +34,7 @@ Now go to https://dashboard.heroku.com/apps/(app-name)/resources ( Replace (app-
 REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
-
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Roxy-sama/SenkuRobot.git)
-
+  
 </details>  
 <details>
   <summary>Steps to self Host!! </summary>
@@ -171,7 +173,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Roxy-sama/SenkuRobot.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/animekaizoku/saitamarobot.git) 
 
 
 ## Credits
