@@ -5,9 +5,9 @@ import requests
 from telegram import ParseMode, Update
 from telegram.ext import CallbackContext, run_async
 
-from SaitamaRobot import StartTime, dispatcher
-from SaitamaRobot.modules.helper_funcs.chat_status import sudo_plus
-from SaitamaRobot.modules.disable import DisableAbleCommandHandler
+from SpongebobBot import StartTime, dispatcher
+from SpongebobBot.modules.helper_funcs.chat_status import sudo_plus
+from SpongebobBot.modules.disable import DisableAbleCommandHandler
 
 sites_list = {
     "Telegram": "https://api.telegram.org",
