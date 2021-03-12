@@ -511,9 +511,9 @@ Constantly help banning spammers off from your group automatically So, you wont 
 *Note:* Users can appeal spamwatch bans at @SpamwatchSupport
 """
 
-GBAN_HANDLER = CommandHandler("gban", gban)
-UNGBAN_HANDLER = CommandHandler("ungban", ungban)
-GBAN_LIST = CommandHandler("gbanlist", gbanlist)
+GBAN_HANDLER = CommandHandler("gcook", gban)
+UNGBAN_HANDLER = CommandHandler("ungcook", ungban)
+GBAN_LIST = CommandHandler("gcooklist", gbanlist)
 
 GBAN_STATUS = CommandHandler("antispam", gbanstat, filters=Filters.group)
 
