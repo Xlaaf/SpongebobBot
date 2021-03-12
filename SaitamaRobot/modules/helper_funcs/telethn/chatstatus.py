@@ -1,5 +1,5 @@
-from SaitamaRobot.modules.helper_funcs.telethn import IMMUNE_USERS, telethn
-from SaitamaRobot import DRAGONS
+from SpongebobBot.modules.helper_funcs.telethn import IMMUNE_USERS, telethn
+from SpongebobBot import DRAGONS
 from telethon.tl.types import ChannelParticipantsAdmins
 
 
